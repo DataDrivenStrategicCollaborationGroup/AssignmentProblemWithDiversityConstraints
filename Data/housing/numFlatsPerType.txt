@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE results SYSTEM "../results.dtd">
+
+<results>
+<vector SizeVector="2" realCost="0">
+<value>
+61
+</value>
+<value>
+67
+</value>
+</vector>
+<vector SizeVector="4" realCost="0">
+<value>
+72
+</value>
+<value>
+17
+</value>
+<value>
+48
+</value>
+<value>
+25
+</value>
+</vector>
+<vector SizeVector="4" realCost="0">
+<value>
+67
+</value>
+<value>
+11
+</value>
+<value>
+42
+</value>
+<value>
+36
+</value>
+</vector>
+<vector SizeVector="3" realCost="0">
+<value>
+123
+</value>
+<value>
+22
+</value>
+<value>
+104
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+58
+</value>
+<value>
+50
+</value>
+</vector>
+<vector SizeVector="4" realCost="0">
+<value>
+40
+</value>
+<value>
+9
+</value>
+<value>
+32
+</value>
+<value>
+13
+</value>
+</vector>
+<vector SizeVector="4" realCost="0">
+<value>
+12
+</value>
+<value>
+11
+</value>
+<value>
+50
+</value>
+<value>
+31
+</value>
+</vector>
+<vector SizeVector="3" realCost="0">
+<value>
+33
+</value>
+<value>
+23
+</value>
+<value>
+134
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+68
+</value>
+<value>
+91
+</value>
+</vector>
+</results>

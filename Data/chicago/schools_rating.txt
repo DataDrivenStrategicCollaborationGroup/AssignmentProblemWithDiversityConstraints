@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE results SYSTEM "../results.dtd">
+
+<results>
+<vector SizeVector="1" realCost="0">
+<value>
+3
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+3
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+3
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+3
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+4
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+3
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+3
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+3
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+4
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+3
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+2
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+1
+</value>
+</vector>
+</results>

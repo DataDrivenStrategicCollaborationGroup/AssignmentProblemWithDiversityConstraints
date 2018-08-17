@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE results SYSTEM "../results.dtd">
+
+<results>
+<vector SizeVector="2" realCost="0">
+<value>
+41.913927975903626
+</value>
+<value>
+-87.64625190361446
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90773844565219
+</value>
+<value>
+-87.62641096739135
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90943737288135
+</value>
+<value>
+-87.6312829322034
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9059229
+</value>
+<value>
+-87.63076746666667
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90740160000001
+</value>
+<value>
+-87.63655933684211
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.907313172413794
+</value>
+<value>
+-87.64028835632183
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90008056043956
+</value>
+<value>
+-87.63193964835163
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90007489411764
+</value>
+<value>
+-87.6290597764706
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89890329487178
+</value>
+<value>
+-87.62614058974357
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.903921375
+</value>
+<value>
+-87.62415361607144
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89833791780821
+</value>
+<value>
+-87.6203513287671
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89510535365854
+</value>
+<value>
+-87.61940534146342
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89284760638298
+</value>
+<value>
+-87.61152398936171
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89164568636364
+</value>
+<value>
+-87.61526015000005
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89205005147056
+</value>
+<value>
+-87.62614328676473
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.891711288461536
+</value>
+<value>
+-87.62882775961538
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89176373043478
+</value>
+<value>
+-87.6318841217391
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89392778064518
+</value>
+<value>
+-87.63776992258063
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.89818321212123
+</value>
+<value>
+-87.64154409090905
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+42.01473595774649
+</value>
+<value>
+-87.81331057042252
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+42.00678372316382
+</value>
+<value>
+-87.81275757627117
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.99929447482014
+</value>
+<value>
+-87.8170805467626
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.98990774863392
+</value>
+<value>
+-87.78368969945353
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.99676244267519
+</value>
+<value>
+-87.79214963375799
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.98976556888889
+</value>
+<value>
+-87.80667768444444
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.99016641899441
+</value>
+<value>
+-87.81793021787708
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97782365079362
+</value>
+<value>
+-87.82153071957669
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97916850526317
+</value>
+<value>
+-87.79854126842098
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97176319161677
+</value>
+<value>
+-87.79890101796411
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.98822449189188
+</value>
+<value>
+-87.76993325675672
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.981102396226404
+</value>
+<value>
+-87.77335780188682
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97524716312055
+</value>
+<value>
+-87.78285007801419
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9730916163522
+</value>
+<value>
+-87.77159974842766
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97728141610738
+</value>
+<value>
+-87.76263926845635
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97031936723163
+</value>
+<value>
+-87.76034547457621
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.99926907608692
+</value>
+<value>
+-87.77524068749996
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.995351644444426
+</value>
+<value>
+-87.75793728148149
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.990169351955316
+</value>
+<value>
+-87.7397552346369
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.977388514925394
+</value>
+<value>
+-87.75263982835824
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9914844512195
+</value>
+<value>
+-87.72047368292681
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.980593570446736
+</value>
+<value>
+-87.73650435051543
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.98629157142855
+</value>
+<value>
+-87.71280106122447
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97117217333336
+</value>
+<value>
+-87.70583414666667
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.971171942148764
+</value>
+<value>
+-87.71312906611575
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.96943335632184
+</value>
+<value>
+-87.72332716091955
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97248908730156
+</value>
+<value>
+-87.72382590476187
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97155689497716
+</value>
+<value>
+-87.73897935616432
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.96545244705884
+</value>
+<value>
+-87.73155615294121
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.964607799999975
+</value>
+<value>
+-87.7260735230769
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.96454816901408
+</value>
+<value>
+-87.72125860563379
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.967098329896906
+</value>
+<value>
+-87.7129959072165
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9640217473684
+</value>
+<value>
+-87.7133960315789
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.964320236641214
+</value>
+<value>
+-87.70260767938932
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.96097878707221
+</value>
+<value>
+-87.75274107604557
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9611810233645
+</value>
+<value>
+-87.76131837383184
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.964557350746254
+</value>
+<value>
+-87.77219364179102
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9566928504673
+</value>
+<value>
+-87.77197048598131
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9647410925926
+</value>
+<value>
+-87.78115425925924
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.956606485714275
+</value>
+<value>
+-87.78195739047621
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.95001288888888
+</value>
+<value>
+-87.77206197777778
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.94956323255814
+</value>
+<value>
+-87.76190357364341
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.95020205691057
+</value>
+<value>
+-87.75253256910563
+</value>
+</vector>
+</results>

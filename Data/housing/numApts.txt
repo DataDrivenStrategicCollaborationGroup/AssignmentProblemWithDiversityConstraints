@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE results SYSTEM "../results.dtd">
+
+<results>
+<vector SizeVector="1" realCost="0">
+<value>
+128
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+162
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+156
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+249
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+108
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+94
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+104
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+190
+</value>
+</vector>
+<vector SizeVector="1" realCost="0">
+<value>
+159
+</value>
+</vector>
+</results>

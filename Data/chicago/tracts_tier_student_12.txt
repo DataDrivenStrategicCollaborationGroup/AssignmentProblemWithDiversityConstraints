@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE results SYSTEM "../results.dtd">
+
+<results>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+195
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+1086
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+435
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+817
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+931
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+855
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+995
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+530
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+292
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+439
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+331
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+1397
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+1072
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+279
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+451
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+744
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+1390
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+362
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+993
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+328
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+176
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+372
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+431
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+282
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+549
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+457
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+523
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+124
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+310
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+949
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+177
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+603
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+571
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+820
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+889
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+814
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+345
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+523
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+385
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+345
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+402
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+1269
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+1092
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+347
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+226
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+192
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+0
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+294
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+553
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+386
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+442
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+4
+</value>
+<value>
+20
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+157
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+3
+</value>
+<value>
+656
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+380
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+592
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+550
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+397
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+323
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+1
+</value>
+<value>
+462
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+331
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+2
+</value>
+<value>
+444
+</value>
+</vector>
+</results>

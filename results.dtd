@@ -1,0 +1,3 @@
+<!ELEMENT results (vector*) >
+<!ELEMENT vector (column*) >
+<!ELEMENT value (#PCDATA) >

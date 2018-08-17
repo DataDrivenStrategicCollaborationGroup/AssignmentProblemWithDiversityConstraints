@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE results SYSTEM "../results.dtd">
+
+<results>
+<vector SizeVector="2" realCost="0">
+<value>
+41.79846496
+</value>
+<value>
+-87.62569158
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.72969236
+</value>
+<value>
+-87.57664295
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.72848064
+</value>
+<value>
+-87.60743532
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.77122111
+</value>
+<value>
+-87.66652988
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.95681613
+</value>
+<value>
+-87.64608274
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.95248767
+</value>
+<value>
+-87.72136351
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9159138
+</value>
+<value>
+-87.6744946
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.87574412
+</value>
+<value>
+-87.71580443
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90659999
+</value>
+<value>
+-87.63551281
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.86697963
+</value>
+<value>
+-87.72724438
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.87125482
+</value>
+<value>
+-87.65336555
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.706801
+</value>
+<value>
+-87.53517531
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.94227549
+</value>
+<value>
+-87.65770888
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9490033
+</value>
+<value>
+-87.65157334
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.87429964
+</value>
+<value>
+-87.66098467
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.87381495
+</value>
+<value>
+-87.70224105
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.85077148
+</value>
+<value>
+-87.70511208
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.77645281
+</value>
+<value>
+-87.64089203
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.91389953
+</value>
+<value>
+-87.63756486
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90291446
+</value>
+<value>
+-87.67369603
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.92320352
+</value>
+<value>
+-87.65728744
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.79853549
+</value>
+<value>
+-87.59334041
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.91394722
+</value>
+<value>
+-87.64599025
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.74284992
+</value>
+<value>
+-87.70574909
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.83652695
+</value>
+<value>
+-87.61833765
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.76061413
+</value>
+<value>
+-87.67596551
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90681581
+</value>
+<value>
+-87.68304994
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.84794072
+</value>
+<value>
+-87.69731554
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.84440016
+</value>
+<value>
+-87.64133981
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.86535102
+</value>
+<value>
+-87.65344503
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.86857588
+</value>
+<value>
+-87.66496913
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.99535905
+</value>
+<value>
+-87.68479279
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.88321452
+</value>
+<value>
+-87.67763611
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.94857131
+</value>
+<value>
+-87.77763129
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.72560922
+</value>
+<value>
+-87.63016448
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.72081703
+</value>
+<value>
+-87.66555862
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+42.00749067
+</value>
+<value>
+-87.77834486
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.97239395
+</value>
+<value>
+-87.75756504
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9495298
+</value>
+<value>
+-87.68601824
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.78336832
+</value>
+<value>
+-87.59079501
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9555532
+</value>
+<value>
+-87.6837653
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.9715061
+</value>
+<value>
+-87.70930367
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.69717033
+</value>
+<value>
+-87.69727834
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.74718592
+</value>
+<value>
+-87.62804036
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.85279977
+</value>
+<value>
+-87.62930833
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.90705301
+</value>
+<value>
+-87.67776098
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+41.86687451
+</value>
+<value>
+-87.628615
+</value>
+</vector>
+</results>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE results SYSTEM "../results.dtd">
+
+<results>
+<vector SizeVector="2" realCost="0">
+<value>
+103.745318
+</value>
+<value>
+1.35022
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+103.741431
+</value>
+<value>
+1.362121
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+103.91282
+</value>
+<value>
+1.387476
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+103.774341
+</value>
+<value>
+1.437471
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+103.799753
+</value>
+<value>
+1.446501
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+103.852523
+</value>
+<value>
+1.425844
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+103.874274
+</value>
+<value>
+1.342361
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+103.888105
+</value>
+<value>
+1.309895
+</value>
+</vector>
+<vector SizeVector="2" realCost="0">
+<value>
+103.885718
+</value>
+<value>
+1.309648
+</value>
+</vector>
+</results>
