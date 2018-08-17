@@ -1,12 +1,12 @@
 # Assignment Problem with Diversity Constraints
 This repository contains the code to reproduce the results from the paper **Assignment Problem with Diversity Constraints**(*in preparation*) and **Diversity Constraints in Public Housing Allocation**([*AAMAS 2018*](http://ifaamas.org/Proceedings/aamas2018/pdfs/p973.pdf)).
 
-Authors: Nawal Benabbou, Mithun Chakraborty, Xuan-Vinh Ho , Jakub Sliwinski and Yair Zick 
+Authors: Nawal Benabbou, Mithun Chakraborty, Xuan-Vinh Ho, Jakub Sliwinski, and Yair Zick 
 
 For any issue regarding this repository, please contact Nawal Benabbou(dcsnb@nus.edu.sg) or Xuan-Vinh Ho(hxvinh@comp.nus.edu.sg)
 
 ## Prerequisites
-Our program is written in Java with available standard libraries, except for [Gurobi](http://www.gurobi.com/). Any issue in activating the license and using the library could be found [here](http://www.gurobi.com/documentation/7.5/quickstart_mac.pdf).
+Our program is written in Java with available standard libraries, except for [Gurobi](http://www.gurobi.com/)(an optimization tool). Any issue in activating the license and using the library can be found [here](http://www.gurobi.com/documentation/7.5/quickstart_mac.pdf).
 
 ## Directory Structure
 
@@ -64,8 +64,8 @@ For each option, you are further required to modify related setting:
 ## Result
 
 After the simulation finishs, all results are stored in `Results` folder. Each running produces 3 types of file: `error-*.txt`, `*-var-*.txt` and `*-octave.txt`. 
-* `error-*.txt` shows the standard deviation and standard error of utilitarian social welfare in optimal solution under constraint, solution in lottery and constraint-free optimal solution.
-* `*-var-*.txt` shows the value of optimal solution, PoD of optimal solution under constraint, PoD of lottery solution, theoretical bound based on minAlpha, betaStar and theoretical bound based on betaStar, in each iteration.
+* `error-*.txt` shows the standard deviation and standard error of utilitarian social welfare in optimal solution under constraint, solution in lottery unconstrained optimal solution.
+* `*-var-*.txt` shows the value of unconstrained optimal solution, PoD of constrained optimal solution, PoD of lottery solution, theoretical bound based on minAlpha, betaStar and theoretical bound based on betaStar, in each iteration.
 * `*-octave.txt` shows the value of the above 6 values, in expectation.
 
-Note that if user reruns the experiment with the same setting, previous result files should be moved to somewhere else, otherwise they would be overwritten. 
+Note that if user reruns the experiment with the same setting, previous result files should be moved to somewhere else, otherwise they will be overwritten. 
