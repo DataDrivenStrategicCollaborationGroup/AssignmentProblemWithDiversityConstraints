@@ -3,7 +3,7 @@ This repository contains the code to reproduce the results from the paper **Assi
 
 Authors: Nawal Benabbou, Mithun Chakraborty, Xuan-Vinh Ho, Jakub Sliwinski, and Yair Zick 
 
-For any issue regarding this repository, please contact Nawal Benabbou(dcsnb@nus.edu.sg) or Xuan-Vinh Ho(hxvinh@comp.nus.edu.sg)
+For any issue regarding this repository, please contact Nawal Benabbou(nawal.benabbou@lip6.fr) or Xuan-Vinh Ho(hxvinh@comp.nus.edu.sg)
 
 ## Prerequisites
 Our program is written in Java with available standard libraries, except for [Gurobi](http://www.gurobi.com/)(an optimization tool). Any issue in activating the license and using the library can be found [here](http://www.gurobi.com/documentation/7.5/quickstart_mac.pdf).
