@@ -16,15 +16,17 @@ public class Solver {
 	
 	public static double assignmentWithOrWithoutConstraintsHDB(boolean capacityConstraints){
 		
+			
 		ArrayList<GRBVar[][]> vars_x = new ArrayList<GRBVar[][]>();
 		for (int b=0;b<MainTests.numBlocks;b++){
 			vars_x.add(new GRBVar[MainTests.numAgents][MainTests.numAptPerBlock[b]]);
 		}
 		try {
+
 			//Model Creation :
 			GRBEnv env = new GRBEnv();
 			GRBModel model = new GRBModel(env);
-			
+
 			//Variables Creation :
 			if (capacityConstraints){
 				for (int b=0;b<MainTests.numBlocks;b++){
@@ -262,7 +264,7 @@ public class Solver {
 				int numApt_b = MainTests.numAptPerBlock[b];
 				for (int i=0;i<MainTests.numAgents;i++){
 					for (int j=0;j<numApt_b;j++){
-						vars_x_b[i][j] = model.addVar(0, 1, 0, GRB.BINARY, "xij");
+						vars_x_b[i][j] = model.addVar(0, 1, 0, GRB.CONTINUOUS, "xij");
 					}
 				}
 			}
@@ -276,7 +278,8 @@ public class Solver {
 				for (int i=0;i<MainTests.numAgents;i++){
 					double[] utilities_b = MainTests.agents.get(i).getUtilities().get(b);
 					for (int j=0;j<numApt_b;j++){
-						expr.addTerm(utilities_b[j]*Math.pow(10,5), vars_x_b[i][j]);
+						if (utilities_b[j]!=0)
+							expr.addTerm(utilities_b[j]*Math.pow(10,5), vars_x_b[i][j]);
 					}
 				}
 			}
@@ -297,7 +300,8 @@ public class Solver {
 						double[] utilities_b = MainTests.agents.get(i).getUtilities().get(b);
 						int numApt_b = MainTests.numAptPerBlock[b];
 						for (int j=0;j<numApt_b;j++){
-							expr.addTerm(utilities_b[j]*Math.pow(10,8)*1.0/numAgents_l, vars_x_b[i][j]);
+							if (utilities_b[j]!=0)
+								expr.addTerm(utilities_b[j]*Math.pow(10,8)*1.0/numAgents_l, vars_x_b[i][j]);
 						}
 					}
 					cpt = cpt+1;
@@ -331,6 +335,7 @@ public class Solver {
 				}	
 			}
 			model.update();
+			
 					
 			//Optimize:
 			model.set(GRB.IntAttr.ModelSense, GRB.MAXIMIZE);
@@ -346,7 +351,18 @@ public class Solver {
 		    	return -Double.MAX_VALUE;
 		    }else{
 		    	
-		    	double valSolution = model.get(GRB.DoubleAttr.ObjVal);		   				    			
+		    	double valSolution = model.get(GRB.DoubleAttr.ObjVal);	
+		    	/*for (int b=0;b<MainTests.numBlocks;b++){
+					int numApt_b = MainTests.numAptPerBlock[b];
+					double[][] solution = model.get(GRB.DoubleAttr.X,vars_x.get(b));
+					for (int i=0;i<MainTests.numAgents;i++){
+						for (int j=0;j<numApt_b;j++){
+							if (solution[i][j]!= 0 && solution[i][j]!= 1){
+					    		System.out.println(solution[i][j]);
+							}
+						}
+					}
+		    	}*/
 		    	model.dispose();
 				env.dispose();
 				return valSolution;
